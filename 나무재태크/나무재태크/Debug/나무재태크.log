@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\2player\documents\visual studio 2015\projects\나무재태크\나무재태크\소스.cpp(89): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  나무재태크.vcxproj -> C:\Users\2player\Documents\Visual Studio 2015\Projects\나무재태크\Debug\나무재태크.exe
+  나무재태크.vcxproj -> C:\Users\2player\Documents\Visual Studio 2015\Projects\나무재태크\Debug\나무재태크.pdb (Partial PDB)
